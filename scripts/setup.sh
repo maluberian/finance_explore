@@ -10,6 +10,7 @@ function setup_python() {
   pip install --upgrade pip
   pip install --upgrade pandas
   pip install --upgrade plotly
+  pip install --upgrade requests
 }
 
 function setup() {
